@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#72A0A5</color>
+    <color name="colorPrimaryDark">#A5A5A5</color>
+    <color name="colorAccent">#BFA6AE</color>
+    <color name="black">#000000</color>
+    <color name="white">#90ADC3C6</color>
+    <color name="checkBox">#404040</color>
+    <color name="registry">#90BFA6AE</color>
+    <color name="flight_item">#50F4F4F4</color>
+    <color name="mark">#E4A1A1</color>
+</resources>

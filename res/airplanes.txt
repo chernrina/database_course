@@ -1,0 +1,9 @@
+“Û-134 \ 80
+“Û-154 \ 152
+Airbus A310 \ 183
+Airbus A320 \ 90
+Airbus A330 \ 335
+Boeing-737-600 \ 122
+Boeing-737-700 \ 140
+Boeing-737-800 \ 175
+Boeing-737-900ER \ 192
